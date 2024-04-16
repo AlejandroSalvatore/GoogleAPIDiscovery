@@ -1,4 +1,4 @@
 name = "GoogleAPIDiscovery"
 uuid = "d0bb8138-c9a1-4889-9aa9-53117eb34232"
-authors = ["= <=>"]
+authors = ["Alejandro S. Vasquez <alejandrosalvatore.v@gmail.com>"]
 version = "0.1.0"
